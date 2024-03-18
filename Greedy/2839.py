@@ -6,6 +6,8 @@ Dynamic Programming
 Greedy
 
 Solved with Greedy
+
+https://velog.io/@mini-dora/파이썬-백준-2839번-설탕-배달
 """
 
 import sys
